@@ -10,6 +10,16 @@
     text-decoration: none;
     vertical-align: top;
 }
+a{
+    text-decoration:none;
+    color:black;
+    Font-Size:3rem;
+}
+a:active{
+    text-decoration:none;
+    color:black;
+    Font-Size:3rem;
+}
 
 /* content editable */
 *[contenteditable] {
