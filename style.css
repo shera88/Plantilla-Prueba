@@ -16,6 +16,9 @@ a{
     Font-Size:30px;
     displey:block;
 }
+#Recibo{
+    display:block;
+}
 a:active{
     text-decoration:none;
     color:Yellow;
